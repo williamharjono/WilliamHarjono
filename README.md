@@ -21,17 +21,17 @@
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Mahasigma
+- **Sedang mendalami**: perasaan
+- **Target**: jadi Kaya
+- **Fun fact**: ngomongin sesuatu 5 menit kemudian lupa
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://linkedin.com/in/william-harjono" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/weeepeeehaaa" target="_blank">
